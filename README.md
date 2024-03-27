@@ -1,4 +1,4 @@
-# final-project
+# final-project phys360
 final project for physics 360
 
 Some ideas for the final project:
