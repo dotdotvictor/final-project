@@ -1,4 +1,4 @@
-# final-project phys360
+# Final Project Phys360
 
 ### Idea for the final project
 
