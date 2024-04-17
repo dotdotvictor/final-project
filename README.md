@@ -6,15 +6,19 @@ final project for physics 360
 
 Creating gravitational slingshots to explore the changes in trajectory between planets while also attempting to have an object at a starting point reach a target far out from space in a system of planets. 
 
+### Brief Summary
+
 ### Motivation for Project
-I have found it interesting how satellites are launched into space, where it is usualyl 
+I have found it interesting how gravity can be used to launch satellites and spacecraft into space, and I wanted to see if it was possible for me to create a model that could mimic the journey of Voyager 1 and 2. 
 
 ### Questions 
 What would the trajectory look like if an object passed through the orbit of a planet that had a large mass versus a small mass?
 
+What if the mass or starting velocity of the spacecraft was varied? 
 
-changing the masses of the objects to explore how it changes trajectory
-[
+What if there was a reverse trip involved where the spacecraft had to return back to Earth?
+
+What is the fastest time for a spacecraft to reach its target destination using gravity assist (exploring the changes in position of planets)
 
 
 ### Resources
