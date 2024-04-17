@@ -8,8 +8,10 @@ Creating gravitational slingshots to explore the changes in trajectory between p
 
 ### Brief Summary
 
+
+
 ### Motivation for Project
-I have found it interesting how gravity can be used to launch satellites and spacecraft into space, and I wanted to see if it was possible for me to create a model that could mimic the journey of Voyager 1 and 2. 
+I have found it interesting how gravity can be used to launch satellites and spacecraft into space, and I wanted to see if it was possible for me to create a model that could mimic the journey of Voyager 1 and 2. During my PHYS151 lab, I programmed a spacecraft flying and reaching a planet by accounting for its trajectory. Now, I want to see if I could do the same for a system of planets. 
 
 ### Questions 
 What would the trajectory look like if an object passed through the orbit of a planet that had a large mass versus a small mass?
@@ -19,6 +21,8 @@ What if the mass or starting velocity of the spacecraft was varied?
 What if there was a reverse trip involved where the spacecraft had to return back to Earth?
 
 What is the fastest time for a spacecraft to reach its target destination using gravity assist (exploring the changes in position of planets)
+
+How many times can gravity assist be used in the model?
 
 
 ### Resources
