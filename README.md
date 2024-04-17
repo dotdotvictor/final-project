@@ -1,6 +1,4 @@
 # final-project phys360
-final project for physics 360
-
 
 ### Idea for the final project
 
