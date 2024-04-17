@@ -9,7 +9,6 @@ Creating gravitational slingshots to explore the changes in trajectory between p
 Updating the trajectory and the orbiting of the planets around the Sun or a star can be done using the Euler-Cromer method. These planets can be modeled after the planets in our solar system. The spacecraft may have to approach each planet at a specific angle or at a certain velocity or it was escape from the system. 
 
 
-
 ### Motivation for Project
 I have found it interesting how gravity can be used to launch satellites and spacecraft into space, and I wanted to see if it was possible for me to create a model that could mimic the journey of Voyager 1 and 2. During my PHYS151 lab, I programmed a spacecraft flying and reaching a planet by accounting for its trajectory. Now, I want to see if I could do the same for a system of planets. 
 
