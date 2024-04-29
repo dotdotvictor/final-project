@@ -14,6 +14,8 @@ Updating the trajectory and the orbiting of the planets around the Sun or a star
 ### Motivation for Project
 I have found it interesting how gravity can be used to launch satellites and spacecraft into space, and I wanted to see if it was possible for me to create a model that could mimic the journey of Voyager 1 and 2. During my PHYS151 lab, I programmed a spacecraft flying and reaching a planet by accounting for its trajectory. Now, I want to see if I could do the same for a system of planets. 
 
+What if there was a meteor or flying object from outer space that is able to apply gravity assist to land on Earth.
+
 
 ### Questions 
 What would the trajectory look like if an object passed through the orbit of a planet that had a large mass versus a small mass?
